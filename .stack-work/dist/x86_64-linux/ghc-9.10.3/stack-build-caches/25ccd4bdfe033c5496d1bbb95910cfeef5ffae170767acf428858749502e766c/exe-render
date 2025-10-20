@@ -1,0 +1,14 @@
+/home/stivarch/.ghcup/ghc/9.10.3/lib/ghc-9.10.3/lib/x86_64-linux-ghc-9.10.3/rts-1.0.2/include/ghcversion.h:
+  hash: 7590ea01e313d089c303211ba85b0e4454627be40dcb88be287ed32f7e97187f
+/home/stivarch/src/projects/stm-chat/.stack-work/dist/x86_64-linux/ghc-9.10.3/build/render/autogen/Paths_stm_chat.hs:
+  hash: 990ff28a042f76bdc644b818d9702fbc30a60045661dead9eecc8f74616b311f
+/home/stivarch/src/projects/stm-chat/.stack-work/dist/x86_64-linux/ghc-9.10.3/build/render/autogen/cabal_macros.h:
+  hash: d504014e60af96fe649b905d0b19c45b570c0c62ccc6d468d4552a372ac51fac
+/home/stivarch/src/projects/stm-chat/package.yaml:
+  hash: e8c2b58f82541dfa65adc40edb0f109e2e1f3676f602662b23b37ee352b3325e
+/home/stivarch/src/projects/stm-chat/src/Main.hs:
+  hash: ef8bfe46a3bb1f153607f27b4ceb8373f53fbe7eb14de81c3f6b87d9bec718ac
+/home/stivarch/src/projects/stm-chat/stm-chat.cabal:
+  hash: 420d622b57c24bdcf9c0d137a742e3fb052dbf48f2528c9cf11f84956839ed8f
+/usr/include/stdc-predef.h:
+  hash: 82975831ea2d1f95b60225f37ddd6130225f0c3de2318674cb178fea661ad87b
